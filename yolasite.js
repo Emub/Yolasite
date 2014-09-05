@@ -55,7 +55,7 @@ $(document).on("ready", function(){
 			if(!refresh){
 
 				// mubLib stylesheet
-				$lib.getStyle("https://dl.dropboxusercontent.com/u/77624511/yolaStyle.css");
+				$lib.getStyle("https://raw.githubusercontent.com/Emub/Yolasite/master/yolaStyle.css");
 
 				// Tweenmax
 				$("<script>", { src: "http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js" }).appendTo("head");
