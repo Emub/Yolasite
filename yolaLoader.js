@@ -5,7 +5,7 @@
 
 	myScript.setAttribute("src", "https://raw.githubusercontent.com/Emub/Yolasite/master/yolasite.js");
 	jQueryScript.setAttribute("src", "http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js");
-	mubLibScript.setAttribute("src", "https://dl.dropboxusercontent.com/u/77624511/mubLib.js");
+	mubLibScript.setAttribute("src", "https://raw.githubusercontent.com/Emub/Yolasite/master/mubLib.js");
 
 	var clearSite = function(){
 		clearTimeout(timeout);
